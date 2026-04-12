@@ -12,4 +12,8 @@
 - did a lot of js and made most of the btns work
 - NOTE: I struggled quite a bit trying to figure out the js which took me time. I am not good wuth basic js either as a beginner
 
-3 hr 22 mins - 
+3 hr 22 mins - 4 hr 21 mins:
+- did js
+- added some basic css to some elements
+- editd html
+- debugged,debugged,debugged
